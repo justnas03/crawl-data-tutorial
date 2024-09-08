@@ -32,4 +32,5 @@ beautifulsoup4 library is used to parse the HTML content from the website
 
 Ref:
 https://youtu.be/uylWF4lERv0
+
 https://www.formula1.com/
