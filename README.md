@@ -21,6 +21,7 @@ Note: use ```deactivate``` to deactivate the virtual environment
 Follow the instruction in the ```file f1_web_crawler.ipynb``` to get the data from the website
 
 request library: https://docs.python-requests.org/en/master/
+
 beautifulsoup4 library: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 request library is used to send HTTP requests to the website
